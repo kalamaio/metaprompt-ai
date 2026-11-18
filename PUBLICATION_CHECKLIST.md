@@ -2,6 +2,10 @@
 
 Stato: preparazione. Il plugin privato v1.2.0 non viene modificato da questo repository.
 
+## Sito web pubblico
+
+**MetaPrompt AI:** https://kalamaio.github.io/metaprompt-ai/
+
 ## Sito e documentazione
 - [x] Repository pubblico con homepage, supporto, privacy e termini
 - [ ] Confermare pubblicazione GitHub Pages e accessibilità HTTPS delle quattro pagine
