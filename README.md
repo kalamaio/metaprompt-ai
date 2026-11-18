@@ -1,5 +1,7 @@
 # MetaPrompt AI — sito pubblico
 
+**Sito ufficiale:** https://kalamaio.github.io/metaprompt-ai/
+
 Sito informativo per MetaPrompt AI, plugin privato v1.2.0 in preparazione per la candidatura pubblica.
 
 Pagine: `index.html`, `support.html`, `privacy.html`, `terms.html`.
