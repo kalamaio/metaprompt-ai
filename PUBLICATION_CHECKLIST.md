@@ -9,8 +9,9 @@ Stato: preparazione. Il plugin privato v1.2.0 non viene modificato da questo rep
 - [ ] Confermare un contatto adeguato per richieste privacy e supporto non pubbliche
 
 ## Dichiarazioni dello sviluppatore (non presunte)
-- [ ] Confermare se il plugin è gratuito o prevede pagamenti
-- [ ] Confermare se esistono registrazioni esterne, servizi terzi, telemetria o raccolta dati aggiuntiva
+- [x] Confermato: plugin gratuito, senza pagamenti allo sviluppatore
+- [x] Dichiarato: nessun account aggiuntivo e nessun server, servizio esterno o sistema di pagamento gestito dallo sviluppatore
+- [ ] Verificare separatamente eventuali trattamenti operati dalla piattaforma ChatGPT e la formulazione definitiva delle dichiarazioni privacy
 - [ ] Confermare titolare dei dati e recapiti da pubblicare
 - [ ] Verificare identità sviluppatore nella piattaforma di pubblicazione
 - [ ] Definire paesi di distribuzione ed eventuali dichiarazioni commerciali
